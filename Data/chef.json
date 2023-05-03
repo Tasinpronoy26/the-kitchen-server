@@ -1,0 +1,50 @@
+[
+    {
+        "chefId": 1,
+        "chefPicture": "https://images.pexels.com/photos/7488995/pexels-photo-7488995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    },
+    {
+        "chefId": 2,
+        "chefPicture": "https://images.pexels.com/photos/6605418/pexels-photo-6605418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    },
+    {
+        "chefId": 3,
+        "chefPicture": "https://images.pexels.com/photos/6019592/pexels-photo-6019592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    },
+    {
+        "chefId": 4,
+        "chefPicture": "https://images.pexels.com/photos/8093910/pexels-photo-8093910.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    },
+    {
+        "chefId": 5,
+        "chefPicture": "https://images.pexels.com/photos/6050335/pexels-photo-6050335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    },
+    {
+        "chefId": 6,
+        "chefPicture": "https://images.pexels.com/photos/4253298/pexels-photo-4253298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "John Doe",
+        "yearsOfExperience": 10,
+        "numRecipes": 50,
+        "likes": 1000
+    }
+]
