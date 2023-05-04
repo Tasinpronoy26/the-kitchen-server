@@ -10,7 +10,7 @@
         "recipes": [
             {
                 "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipeName": "Bland",
                 "ingredients": [
                     "Salmon fillet",
                     "Lemon juice",
@@ -19,12 +19,11 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 5
             },
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/11267448/pexels-photo-11267448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Beef Wellington",
                 "ingredients": [
                     "Salmon fillet",
                     "Lemon juice",
@@ -33,8 +32,7 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             },
             {
                 "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -47,23 +45,35 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             }
         ]
     },
     {
         "chefId": 2,
         "chefPicture": "https://images.pexels.com/photos/6605418/pexels-photo-6605418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "chefName": "John Doe",
-        "chefBio": "John Smith is an experienced chef with over 15 years of experience in the culinary arts. He specializes in creating unique and flavorful dishes using locally sourced ingredients. John has worked in top-rated restaurants and has won several awards for his innovative approach to cooking.",
-        "yearsOfExperience": 10,
-        "numRecipes": 50,
-        "likes": 1000,
+        "chefName": "Ina Garten",
+        "chefBio": "Ina Garten is an experienced chef with over 15 years of experience in the culinary arts. He specializes in creating unique and flavorful dishes using locally sourced ingredients. John has worked in top-rated restaurants and has won several awards for his innovative approach to cooking.",
+        "yearsOfExperience": 11,
+        "numRecipes": 40,
+        "likes": 1020,
         "recipes": [
             {
                 "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipeName": " Lemon Roasted Chicken",
+                "ingredients": [
+                    "Whole chicken",
+                    "Olive oil",
+                    "Garlic",
+                    "Rosemary",
+                    "Salt"
+                ],
+                "cookingMethod": "Ina Garten is known for her simple yet delicious recipes, and her Lemon Roasted Chicken is no exception. The chicken is seasoned with lemon, garlic, and thyme and then roasted in the oven until it's juicy and tender.",
+                "rating": 4.5
+            },
+            {
+                "recipePicture": "https://images.pexels.com/photos/5491001/pexels-photo-5491001.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Spicy Salmon",
                 "ingredients": [
                     "Whole chicken",
                     "Olive oil",
@@ -76,7 +86,7 @@
                 "isFavorite": false
             },
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipePicture": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
                 "recipeName": "Grilled Salmon",
                 "ingredients": [
                     "Whole chicken",
@@ -86,47 +96,29 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
-            },
-            {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
-                "ingredients": [
-                    "Whole chicken",
-                    "Olive oil",
-                    "Garlic",
-                    "Rosemary",
-                    "Salt"
-                ],
-                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             }
         ]
     },
     {
         "chefId": 3,
         "chefPicture": "https://img.freepik.com/free-photo/cheerful-young-cook-uniform-pointing-you_171337-5336.jpg?w=740&t=st=1683114665~exp=1683115265~hmac=b7a1d874ddd0482fb02433ff01d2a7cb0135a0a696d8ce58b26e82dfd2dd98c7",
-        "chefName": "John Doe",
-        "chefBio": "John Smith is an experienced chef with over 15 years of experience in the culinary arts. He specializes in creating unique and flavorful dishes using locally sourced ingredients. John has worked in top-rated restaurants and has won several awards for his innovative approach to cooking.",
-        "yearsOfExperience": 10,
-        "numRecipes": 50,
-        "likes": 1000,
+        "chefName": "Julia Child",
+        "chefBio": "Julia Child (1912-2004) was an American chef, author, and television personality who is credited with popularizing French cuisine in the United States. She began cooking in her early thirties after moving to France with her husband, Paul Child, who worked for the United States Information Agency. In France, Julia attended the famous Le Cordon Bleu cooking school, where she learned the techniques and recipes that would later become the basis for her famous cookbook, Mastering the Art of French Cooking.",
+        "yearsOfExperience": 12,
+        "numRecipes": 60,
+        "likes": 3000,
         "recipes": [
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/842571/pexels-photo-842571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Boeuf Bourguignon",
                 "ingredients": [
                     "Whole chicken",
-                    "Olive oil",
-                    "Garlic",
-                    "Rosemary",
-                    "Salt"
+                    "oil",
+                    "Garlic"
                 ],
-                "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "cookingMethod": "Boeuf Bourguignon is a classic French dish that features beef that is slowly braised in red wine and beef broth with bacon, mushrooms, and onions. The dish is then finished with a touch of tomato paste and a bouquet garni of thyme, bay leaves, and parsley. The result is a rich and hearty stew that is perfect for a cozy dinner on a chilly evening.",
+                "rating": 5
             },
             {
                 "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -139,47 +131,43 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             },
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Salmon",
                 "ingredients": [
-                    "Whole chicken",
                     "Olive oil",
                     "Garlic",
                     "Rosemary",
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             }
         ]
     },
     {
         "chefId": 4,
         "chefPicture": "https://as2.ftcdn.net/v2/jpg/00/53/95/49/1000_F_53954999_b8eVr9fHYWuH9A97UGa896lyrQZeuyHM.jpg",
-        "chefName": "John Doe",
-        "chefBio": "John Smith is an experienced chef with over 15 years of experience in the culinary arts. He specializes in creating unique and flavorful dishes using locally sourced ingredients. John has worked in top-rated restaurants and has won several awards for his innovative approach to cooking.",
-        "yearsOfExperience": 10,
-        "numRecipes": 50,
-        "likes": 1000,
+        "chefName": "Jamie Oliver",
+        "chefBio": "Jamie Oliver is a British chef, restaurateur, author, and television personality who has become a household name in the culinary world. He was born in Essex, England in 1975 and began cooking at a young age, inspired by his parents who ran a pub and restaurant.In 1999, Jamie's television show, The Naked Chef, debuted on the BBC and quickly became a hit. The show was centered around Jamie's casual and straightforward approach to cooking, and it helped to launch his career as a celebrity chef. He has since gone on to host many other cooking shows, including Jamie's Kitchen, Jamie at Home, and Jamie's 30 Minute Meals.",
+        "yearsOfExperience": 8,
+        "numRecipes": 60,
+        "likes": 1003,
         "recipes": [
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/323682/pexels-photo-323682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Grilled",
                 "ingredients": [
-                    "Whole chicken",
                     "Olive oil",
                     "Garlic",
-                    "Rosemary",
-                    "Salt"
+                    "Salt",
+                    "Whole chicken",
+                    "Olive oil"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             },
             {
                 "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -196,9 +184,10 @@
                 "isFavorite": false
             },
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/5807020/pexels-photo-5807020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Noodles",
                 "ingredients": [
+                    "Noodle",
                     "Whole chicken",
                     "Olive oil",
                     "Garlic",
@@ -206,22 +195,21 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             }
         ]
     },
     {
         "chefId": 5,
         "chefPicture": "https://img.freepik.com/free-photo/portrait-cheerful-male-chef-dressed-uniform_171337-5357.jpg?w=740&t=st=1683114906~exp=1683115506~hmac=81868f274bd85cf0e73cc49aa761783f8d92b3c4823b848eae237a7c12d95c3a",
-        "chefName": "John Doe",
+        "chefName": "Martha Stewart",
         "yearsOfExperience": 10,
-        "chefBio": "John Smith is an experienced chef with over 15 years of experience in the culinary arts. He specializes in creating unique and flavorful dishes using locally sourced ingredients. John has worked in top-rated restaurants and has won several awards for his innovative approach to cooking.",
+        "chefBio": "Martha Stewart is an American businesswoman, television personality, and author who is known for her expertise in cooking, entertaining, and home decor. She was born in 1941 in New Jersey and began her career as a model and stockbroker before turning her attention to her true passion: homemaking and cooking.",
         "numRecipes": 50,
         "likes": 1000,
         "recipes": [
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipePicture": "https://images.pexels.com/photos/5807022/pexels-photo-5807022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "recipeName": "Grilled Salmon",
                 "ingredients": [
                     "Whole chicken",
@@ -231,26 +219,23 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             },
             {
                 "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipeName": "Salmon",
                 "ingredients": [
                     "Whole chicken",
                     "Olive oil",
                     "Garlic",
-                    "Rosemary",
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 5
             },
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Perfect Roast Turkey",
                 "ingredients": [
                     "Whole chicken",
                     "Olive oil",
@@ -267,15 +252,15 @@
     {
         "chefId": 6,
         "chefPicture": "https://img.freepik.com/premium-photo/bald-man-feeling-happy-love-smiling-with-one-hand-heart-other-stretched-up-front_1194-142962.jpg?w=740",
-        "chefName": "John Doe",
-        "chefBio": "John Smith is an experienced chef with over 15 years of experience in the culinary arts. He specializes in creating unique and flavorful dishes using locally sourced ingredients. John has worked in top-rated restaurants and has won several awards for his innovative approach to cooking.",
+        "chefName": "Yotam Ottolenghi",
+        "chefBio": "Yotam Ottolenghi is a famous Israeli chef who is known for his innovative and colorful recipes. His Shakshuka recipe features eggs that are poached in a rich tomato sauce that's flavored with onions, garlic, and spices. It's a popular breakfast dish in many Middle Eastern countries.",
         "yearsOfExperience": 10,
         "numRecipes": 50,
         "likes": 1000,
         "recipes": [
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Italian Salmon",
                 "ingredients": [
                     "Whole chicken",
                     "Olive oil",
@@ -284,8 +269,7 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             },
             {
                 "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -298,12 +282,11 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             },
             {
-                "recipePicture": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-                "recipeName": "Grilled Salmon",
+                "recipePicture": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "recipeName": "Italian PIZZA",
                 "ingredients": [
                     "Whole chicken",
                     "Olive oil",
@@ -312,8 +295,7 @@
                     "Salt"
                 ],
                 "cookingMethod": "1. Preheat grill to medium-high heat. \n2. Combine lemon juice, olive oil, garlic, and salt in a small bowl. \n3. Brush mixture onto salmon fillets. \n4. Place salmon fillets on grill and cook for 4-6 minutes per side, or until fish flakes easily with a fork.",
-                "rating": 4.5,
-                "isFavorite": false
+                "rating": 4.5
             }
         ]
     }
